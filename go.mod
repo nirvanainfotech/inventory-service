@@ -1,4 +1,4 @@
-module github.com/superorbital/inventory-service
+module github.com/nirvanainfotech/inventory-service
 
 go 1.19
 
